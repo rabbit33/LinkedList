@@ -1,0 +1,17 @@
+C:\Users\alexandra.szabo\source\repos\LinkedList\LinkedListTests\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\alexandra.szabo\source\repos\LinkedList\LinkedListTests\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\alexandra.szabo\source\repos\LinkedList\LinkedListTests\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\alexandra.szabo\source\repos\LinkedList\LinkedListTests\bin\Debug\netcoreapp2.2\LinkedListTests.deps.json
+C:\Users\alexandra.szabo\source\repos\LinkedList\LinkedListTests\bin\Debug\netcoreapp2.2\LinkedListTests.runtimeconfig.json
+C:\Users\alexandra.szabo\source\repos\LinkedList\LinkedListTests\bin\Debug\netcoreapp2.2\LinkedListTests.runtimeconfig.dev.json
+C:\Users\alexandra.szabo\source\repos\LinkedList\LinkedListTests\bin\Debug\netcoreapp2.2\LinkedListTests.dll
+C:\Users\alexandra.szabo\source\repos\LinkedList\LinkedListTests\bin\Debug\netcoreapp2.2\LinkedListTests.pdb
+C:\Users\alexandra.szabo\source\repos\LinkedList\LinkedListTests\bin\Debug\netcoreapp2.2\LinkedList.dll
+C:\Users\alexandra.szabo\source\repos\LinkedList\LinkedListTests\bin\Debug\netcoreapp2.2\LinkedList.pdb
+C:\Users\alexandra.szabo\source\repos\LinkedList\LinkedListTests\obj\Debug\netcoreapp2.2\LinkedListTests.csprojAssemblyReference.cache
+C:\Users\alexandra.szabo\source\repos\LinkedList\LinkedListTests\obj\Debug\netcoreapp2.2\LinkedListTests.csproj.CoreCompileInputs.cache
+C:\Users\alexandra.szabo\source\repos\LinkedList\LinkedListTests\obj\Debug\netcoreapp2.2\LinkedListTests.AssemblyInfoInputs.cache
+C:\Users\alexandra.szabo\source\repos\LinkedList\LinkedListTests\obj\Debug\netcoreapp2.2\LinkedListTests.AssemblyInfo.cs
+C:\Users\alexandra.szabo\source\repos\LinkedList\LinkedListTests\obj\Debug\netcoreapp2.2\LinkedListTests.csproj.CopyComplete
+C:\Users\alexandra.szabo\source\repos\LinkedList\LinkedListTests\obj\Debug\netcoreapp2.2\LinkedListTests.dll
+C:\Users\alexandra.szabo\source\repos\LinkedList\LinkedListTests\obj\Debug\netcoreapp2.2\LinkedListTests.pdb
