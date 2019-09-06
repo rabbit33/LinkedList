@@ -1,0 +1,14 @@
+C:\Users\alexandra.szabo\source\repos\LinkedList\LinkedListDemo\bin\Debug\netcoreapp2.2\LinkedListDemo.deps.json
+C:\Users\alexandra.szabo\source\repos\LinkedList\LinkedListDemo\bin\Debug\netcoreapp2.2\LinkedListDemo.runtimeconfig.json
+C:\Users\alexandra.szabo\source\repos\LinkedList\LinkedListDemo\bin\Debug\netcoreapp2.2\LinkedListDemo.runtimeconfig.dev.json
+C:\Users\alexandra.szabo\source\repos\LinkedList\LinkedListDemo\bin\Debug\netcoreapp2.2\LinkedListDemo.dll
+C:\Users\alexandra.szabo\source\repos\LinkedList\LinkedListDemo\bin\Debug\netcoreapp2.2\LinkedListDemo.pdb
+C:\Users\alexandra.szabo\source\repos\LinkedList\LinkedListDemo\bin\Debug\netcoreapp2.2\LinkedList.dll
+C:\Users\alexandra.szabo\source\repos\LinkedList\LinkedListDemo\bin\Debug\netcoreapp2.2\LinkedList.pdb
+C:\Users\alexandra.szabo\source\repos\LinkedList\LinkedListDemo\obj\Debug\netcoreapp2.2\LinkedListDemo.csprojAssemblyReference.cache
+C:\Users\alexandra.szabo\source\repos\LinkedList\LinkedListDemo\obj\Debug\netcoreapp2.2\LinkedListDemo.csproj.CoreCompileInputs.cache
+C:\Users\alexandra.szabo\source\repos\LinkedList\LinkedListDemo\obj\Debug\netcoreapp2.2\LinkedListDemo.AssemblyInfoInputs.cache
+C:\Users\alexandra.szabo\source\repos\LinkedList\LinkedListDemo\obj\Debug\netcoreapp2.2\LinkedListDemo.AssemblyInfo.cs
+C:\Users\alexandra.szabo\source\repos\LinkedList\LinkedListDemo\obj\Debug\netcoreapp2.2\LinkedListDemo.csproj.CopyComplete
+C:\Users\alexandra.szabo\source\repos\LinkedList\LinkedListDemo\obj\Debug\netcoreapp2.2\LinkedListDemo.dll
+C:\Users\alexandra.szabo\source\repos\LinkedList\LinkedListDemo\obj\Debug\netcoreapp2.2\LinkedListDemo.pdb

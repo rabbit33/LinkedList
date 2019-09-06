@@ -1,5 +1,6 @@
 using LinkedList;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
+using System;
 
 namespace LinkedListTests
 {
@@ -29,14 +30,12 @@ namespace LinkedListTests
         } 
 
         [TestMethod]
+        [ExpectedException(typeof(IndexOutOfRangeException))]
         public void DeleteAt_IndexIsGreaterThanListLength_NothingHappens()
         {
             LinkedList<int> linkedList = new LinkedList<int>(new int[] { 1, 2, 3, 4, 5 });
 
             linkedList.DeleteAt(15);
-
-            LinkedList<int> expected = new LinkedList<int>(new int[] { 1, 2, 3, 4, 5 });
-            Assert.IsTrue(expected.IsEqualTo(linkedList));
         }
 
         [TestMethod]
@@ -152,6 +151,26 @@ namespace LinkedListTests
             expected.InsertLast(8);
 
             Assert.IsTrue(expected.IsEqualTo(list));
+        }
+
+        [TestMethod]
+        public void CountRec_ListIsEmpty_Returns0()
+        {
+            LinkedList<int> list = new LinkedList<int>();
+
+            int count = list.CountRec(list.Head);
+
+            Assert.AreEqual(0, count);
+        }
+
+        [TestMethod]
+        public void CountRec_ListIsNotEmpty_ReturnsCount()
+        {
+            LinkedList<int> list = new LinkedList<int>(new int[] { 1, 2, 3, 4 });
+
+            int count = list.CountRec(list.Head);
+
+            Assert.AreEqual(4, count);
         }
     }
 }

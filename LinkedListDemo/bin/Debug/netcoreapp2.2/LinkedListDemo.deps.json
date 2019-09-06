@@ -6,6 +6,14 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v2.2": {
+      "LinkedListDemo/1.0.0": {
+        "dependencies": {
+          "LinkedList": "1.0.0"
+        },
+        "runtime": {
+          "LinkedListDemo.dll": {}
+        }
+      },
       "LinkedList/1.0.0": {
         "runtime": {
           "LinkedList.dll": {}
@@ -14,6 +22,11 @@
     }
   },
   "libraries": {
+    "LinkedListDemo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
     "LinkedList/1.0.0": {
       "type": "project",
       "serviceable": false,

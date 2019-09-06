@@ -1,6 +1,7 @@
-﻿using System;
+﻿using LinkedList;
+using System;
 
-namespace LinkedList
+namespace LinkedListDemo
 {
     class Program
     {

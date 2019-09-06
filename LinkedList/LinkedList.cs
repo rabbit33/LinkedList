@@ -55,7 +55,6 @@ namespace LinkedList
             if (node == null)
             {
                 throw new Exception("Previous node cannot be null");
-                return;
             }
 
             Node<T> newNode = new Node<T>();
@@ -182,6 +181,16 @@ namespace LinkedList
             }
 
             return count;
+        }
+
+        public int CountRec(Node<T> node)
+        {
+            if (node == null)
+            {
+                return 0;
+            }
+
+            return 1 + CountRec(node.Next);
         }
 
         public bool IsEqualTo(LinkedList<T> other)
